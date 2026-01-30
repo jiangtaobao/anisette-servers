@@ -1,6 +1,11 @@
 {
     "servers": [
         {
+            "name": "My Railway Anisette v3",
+            "url": "https://anisette-v3-server-production-96f8.up.railway.app/",
+            "description": "My custom v3 server"
+        },
+        {
             "name": "SideStore",
             "address": "https://ani.sidestore.io"
         },
